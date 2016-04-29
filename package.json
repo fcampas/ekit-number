@@ -1,6 +1,6 @@
 {
   "name": "ekit.number",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ekit Number",
   "main": "index.js",
   "directories": {
@@ -10,8 +10,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "fcampas",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "ord": "^0.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcampas/ekit-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcampas/ekit-number/issues"
+  },
+  "homepage": "https://github.com/fcampas/ekit-number#readme"
 }
